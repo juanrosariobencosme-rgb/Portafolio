@@ -2,13 +2,9 @@
 
 Bienvenido(a) a mi perfil de GitHub. Soy un Desarrollador de Software y Especialista en Aplicaciones Web, enfocado en la creación de soluciones eficientes, intuitivas y de alto rendimiento. Mi experiencia técnica principal abarca el desarrollo frontend y backend, construyendo aplicaciones modernas y escalables.
 
----
-
 ## 🛠️ Tecnologías y Herramientas Principales
 
 HTML · CSS · JavaScript · React · PHP · Git
-
----
 
 ## 🚀 Portafolio
 
@@ -19,8 +15,6 @@ Participé en el desarrollo de esta solución móvil robusta que aprovecha datos
 
 **Stack Tecnológico:** Kotlin, Android SDK, Firebase
 **Características Clave:** Integración backend completa, manejo de datos en tiempo real y almacenamiento en la nube.
-
----
 
 ### 🧠 NeuroBand
 
@@ -33,8 +27,6 @@ Proyecto desarrollado por mí enfocado en el desarrollo de una pulsera inteligen
 * Integración con aplicaciones
 * Enfoque en salud y/o productividad
 * Desarrollo modular e innovador
-
----
 
 ### 💰 Sistema de Caja Chica
 
@@ -49,8 +41,6 @@ Aplicación desarrollada por mí para administrar ingresos, egresos y balances d
 * Reportes básicos financieros
 * Interfaz intuitiva
 
----
-
 ### 🧾 Pemsun Codex
 
 **Sistema de Gestión Académica**
@@ -64,8 +54,6 @@ Proyecto desarrollado por mí enfocado en ayudar a los estudiantes a visualizar 
 * Interfaz moderna y fácil de usar
 * Arquitectura escalable
 
----
-
 ### 🛠️ Aplicaciones
 
 **Proyectos de Utilidad Web**
@@ -77,8 +65,6 @@ Repositorio desarrollado por mí enfocado en la construcción de proyectos sigui
 * Estructura limpia y escalable
 * Buenas prácticas de desarrollo
 * Documentación clara
-
----
 
 ## 📐 Diseño UI/UX y Análisis de Software
 
@@ -94,8 +80,6 @@ Fase de diseño interactivo para el proyecto "Transmovil".
 * Flujo de usuario optimizado
 * Prototipos de baja fidelidad
 
----
-
 ### 📄 Requerimientos-RF-RNF
 
 **Ingeniería de Requisitos**
@@ -107,8 +91,6 @@ Repositorio de documentación integral para el ciclo de vida del software.
 * Análisis detallado del sistema
 * Base estructural para desarrollo
 
----
-
 ## 📫 Contacto y Colaboración
 
 Siempre estoy abierto a nuevas oportunidades, proyectos interesantes y colaboraciones. ¡Siéntete libre de explorar mis repositorios!
@@ -116,7 +98,5 @@ Siempre estoy abierto a nuevas oportunidades, proyectos interesantes y colaborac
 📧 Contacto:
 
 * [juanrosariobencosme@gmail.com](mailto:juanrosariobencosme@gmail.com)
-
----
 
 ⭐️ ¡Gracias por visitar mi perfil!
